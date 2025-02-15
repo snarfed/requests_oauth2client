@@ -79,6 +79,7 @@ from .discovery import (
 from .dpop import (
     DPoPKey,
     DPoPToken,
+    DPoPTokenSerializer,
     InvalidDPoPAccessToken,
     InvalidDPoPAlg,
     InvalidDPoPKey,
